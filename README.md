@@ -2,7 +2,7 @@
 
 ## Demo
 
-Open index.html in your web browser to play.
+[View live!](https://fantastic-lebkuchen-93cea5.netlify.app/)
 
 ## Features
 
@@ -21,7 +21,7 @@ Open index.html in your web browser to play.
 ## Installation
 
 1. Clone the repo:
-   `git clone <your-repo-url>`
+   `git clone https://github.com/riksbyggarn/blackjack-game.git`
 2. Open `index.html` in your web browser.
 
 ## Usage
@@ -32,4 +32,4 @@ Open index.html in your web browser to play.
 
 ## License
 
-MIT
+[MIT](https://choosealicense.com/licenses/mit/)
